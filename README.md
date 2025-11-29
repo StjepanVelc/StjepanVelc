@@ -70,4 +70,4 @@ I enjoy:
 ## 📫 Contact
 
 - **Email:** stjepan.velc@gmail.com  
-- **LinkedIn:** linkedin.com/in/stjepan-velc/ 
+- **LinkedIn:** https://www.linkedin.com/in/stjepanvelc/

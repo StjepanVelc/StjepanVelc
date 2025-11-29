@@ -1,3 +1,4 @@
+# Stjepan Velc – Junior Backend Developer
 # 👋 Hi, I'm Stjepan Velc
 
 Junior backend developer and ITAcademy student (Python Development).  

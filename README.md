@@ -1,7 +1,7 @@
 # Stjepan Velc – Junior Backend Developer
 # 👋 Hi, I'm Stjepan Velc
 
-Junior backend developer and ITAcademy student (Python Development).  
+Junior backend developer. 
 I enjoy combining **programming, mathematics and physics** – from web apps to matrix operations and quantum simulations.
 
 ---

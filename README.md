@@ -1,74 +1,98 @@
-# Stjepan Velc – Junior Backend Developer
-# 👋 Hi, I'm Stjepan Velc
-
-Junior backend developer. 
-I enjoy combining **programming, mathematics and physics** – from web apps to matrix operations and quantum simulations.
+# Stjepan Velc
+Backend Developer | Algorithms • Systems Thinking • Applied Mathematics
 
 ---
 
-## 🚀 What I'm working on
+## Profile
 
-- Building **Python CLI and web applications** (Flask, JSON/CSV data, simple DB layers)
-- Learning **algorithms, data structures, OOP, Git/GitHub**
-- Exploring **quantum computing basics** and simulations in Python
+Backend-focused developer with strong interest in **algorithmic thinking, systems design and applied mathematics**.  
+I build modular applications and simulation tools, combining practical backend development with linear algebra and foundational quantum concepts.
 
----
-
-## 🔧 Skills & Tools
-
-**Languages**
-- Python, C#
-
-**Backend & Web**
-- Flask, Jinja2 templating  
-- Basic REST patterns, simple auth/login flows  
-- Deployment on Render
-
-**Data & Math**
-- NumPy, Pandas, Matplotlib  
-- Linear algebra (matrices, vectors, transformations)  
-- Basics of SQL
-
-**Tools**
-- Git & GitHub  
-- Visual Studio Code, Visual Studio  
-- Windows, PowerShell, virtual environments
+My approach is structured, analytical and architecture-oriented — focused on understanding how systems work under the hood.
 
 ---
 
-## 📂 Selected Projects
+## Core Focus Areas
 
-- **Flask Web App (Login + Admin panel)**  
-  Web app with user login, admin panel, template rendering and database access. Deployed on Render.  
-  _Tech:_ Python, Flask, HTML/CSS, Jinja, Git/GitHub, Render
-
-- **Matrix (stipe_matrix)**  
-  Educational library for basic and advanced matrix operations (addition, multiplication, transpose, determinants, scalar operations).  
-  _Tech:_ Python, NumPy, Linear Algebra
-
-- **Quantum Sync Simulator**  
-  Interactive simulator that visualizes the state of two qubits over time (Bloch spheres, measurement probabilities, entanglement strength, heatmaps).  
-  _Tech:_ Python, NumPy, Matplotlib, basic quantum computing concepts
-
-- **Student System – Python CLI package**  
-  Modular CLI application for managing students (OOP models, data layer, file I/O, reports). Packaged as an editable Python package with `setup.py`.  
-  _Tech:_ Python, OOP, packaging, CLI design
-
-_(More projects available in the repositories section.)_
+- Backend application development (Python, Flask)
+- Modular system design
+- Algorithms & data structures
+- SQL and relational data modeling
+- Linear algebra and mathematical modeling
+- Basic quantum simulation modeling
 
 ---
 
-## 🧩 About me
+## Technical Stack
 
-Curious, self-driven learner who likes to understand **how things work under the hood**.  
-I enjoy:
-- breaking problems into smaller pieces,
-- writing clean, readable code,
-- and connecting theory (math/physics) with practical software.
+### Languages
+- Python
+- C#
+
+### Backend & Web
+- Flask
+- REST-style routing
+- Authentication flows
+- Template rendering (Jinja2)
+- Environment-based configuration (.env)
+- Deployment (Render)
+
+### Data & Mathematical Computing
+- NumPy
+- Pandas
+- Matplotlib
+- Matrix operations
+- Vector transformations
+- Introductory quantum state simulation concepts
+
+### Tools & Workflow
+- Git & GitHub
+- Virtual environments
+- PowerShell
+- Visual Studio / VS Code
+- Structured folder-based deployment
 
 ---
 
-## 📫 Contact
+## Selected Projects
 
-- **Email:** stjepan.velc@gmail.com  
-- **LinkedIn:** https://www.linkedin.com/in/stjepanvelc/
+### VisualQuantumSuite
+Modular .NET desktop launcher for simulation modules (Matrix, Quantum Engine, Quantum Simulator).  
+Demonstrates multi-process management and structured deployment architecture.  
+Tech: C#, .NET, WinForms
+
+---
+
+### Flask Web Application (Login + Admin)
+Backend-oriented web application with authentication, admin panel and database interaction.  
+Includes role-based access control and environment configuration.  
+Tech: Python, Flask, SQL, HTML/CSS
+
+---
+
+### Quantum Sync Simulator
+Educational simulation of two-qubit state evolution with probabilistic measurement visualization.  
+Includes entropy and entanglement-style metrics.  
+Tech: Python, NumPy, Matplotlib
+
+---
+
+### Student System (CLI Package)
+Modular object-oriented CLI application with data persistence and structured project layering.  
+Tech: Python, OOP, packaging
+
+---
+
+## Development Philosophy
+
+- Understand fundamentals before abstraction  
+- Prefer clarity over cleverness  
+- Break systems into modular components  
+- Connect mathematical reasoning with code implementation  
+
+---
+
+## Contact
+
+Email: stjepan.velc@gmail.com  
+LinkedIn: https://www.linkedin.com/in/stjepanvelc/

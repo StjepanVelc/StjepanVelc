@@ -1,20 +1,25 @@
 # 👋 Hi, I'm Stjepan Velc
 
-Backend developer focused on Python, FastAPI, Flask and C#, with strong interest in system design, algorithms, databases and mathematical modeling.
+Software developer focused on backend development, application architecture and reliable software systems.
 
-I enjoy building practical software systems: backend APIs, microservice architectures, desktop tools, data-processing applications and educational projects.
+I enjoy building practical projects that combine backend APIs, databases, system design, algorithms, data processing and desktop tools.
+
+My main interest is understanding how software systems are structured, how they communicate, how they scale and how they can be improved through clean design and mathematical thinking.
 
 ## 🔭 Currently working on
 
-- Microservice backend systems with FastAPI, PostgreSQL, Redis, Docker and gRPC
-- Backend load testing, traffic reports and latency analysis
-- Modular C#/.NET desktop tools integrated with Python projects
-- Flask applications with authentication, admin dashboards and deployment workflows
-- Data processing tools using Python, Pandas, NumPy and SQL
-
+- Backend systems with REST APIs, databases, caching and Docker-based environments
+- Microservice architecture and service communication
+- Load testing, traffic reports and latency analysis
+- Desktop tools connected with backend and data-processing projects
+- Authentication systems, admin dashboards and deployment workflows
+- Educational projects focused on algorithms, logic, mathematics and software architecture
+- C and C++ practice focused on OOP, memory management, pointers and core programming concepts
+  
 ## 🛠 My Skills
 
-**Languages:** Python, C#, SQL  
+**Languages:** Python, C#, SQL
+**Learning / improving:** C, C++  
 **Backend:** FastAPI, Flask, REST APIs, authentication, service architecture  
 **Databases:** PostgreSQL, SQLite, schema design  
 **Systems:** Docker, Redis, gRPC, microservices, caching patterns  
